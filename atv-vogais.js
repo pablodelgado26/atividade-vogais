@@ -61,6 +61,8 @@ console.log("total de espaço: " + arrayespaço.length);
 
 */
 
+// Código usando for, if, else if e else.
+
 let vogais = ["a", "e", "i", "o", "u"];
 
 let consoantes = ["b", "c", "d", "f", "g", "h", "j", "k", "l", "m", "n", "p", "q", "r", "s", "t", "v", "w", "x", "y", "z"];
@@ -96,8 +98,13 @@ for (let i = 0; i < arrayFrase.length; i++) {
 }
 
 console.log("Texto principal:", fraseCompleta);
+
 console.log("total de espaços presentes:", Espaço.length );
+
 console.log("Essas são as consoantes presentes:" + Consoantes.toString());
+
 console.log("Total de consoantes " + Consoantes.length);
+
 console.log("Essas são as vogais presentes:" + Vogais.toString());
+
 console.log("Total de vogais presentes: " + Vogais.length);

@@ -17,7 +17,7 @@ for (let i = 0; i < arrayVogais1.length; i++) {
     }
 }
 
-console.log("texto orinal:", texto);
+console.log("texto original:", texto);
 console.log("vogais encontradas:", arrayVolgais.toString());
 console.log("total de vogais:" + arrayVolgais.length)
 
